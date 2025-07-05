@@ -1,0 +1,6 @@
+com\mycompany\stock_trading_platform\portfolio.class
+com\mycompany\stock_trading_platform\STOCK_TRADING_PLATFORM.class
+com\mycompany\stock_trading_platform\stock_market.class
+com\mycompany\stock_trading_platform\user.class
+com\mycompany\stock_trading_platform\Stock.class
+com\mycompany\stock_trading_platform\DBConnection.class
